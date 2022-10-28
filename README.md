@@ -1,4 +1,4 @@
-# covid19_data_Analysis
+# Covid19_Data_Analysis
 
 Project done during while preparing for **Data Analysis Test** at **TURING.COM**. It aims to learn use **Python Libraries : Numpy, Matplotlib, Pandas** to wrangle, clean and access
 the **COVID_19 Data** given in .CSV file 
